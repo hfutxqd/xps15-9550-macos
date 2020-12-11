@@ -22,8 +22,6 @@ Kexts,NVMeFix.kext,latest,Improve compatibility with non-Apple SSDs,.*RELEASE,ht
 Kexts,SMCBatteryManager.kext,latest,Emulation layer of AppleSmartBattery,.*RELEASE,https://github.com/acidanthera/VirtualSMC
 Kexts,SMCDellSensors.kext,latest,Add support for temperature and fan monitoring,.*RELEASE,https://github.com/acidanthera/VirtualSMC
 Kexts,SMCProcessor.kext,latest,Add support for temperature monitoring,.*RELEASE,https://github.com/acidanthera/VirtualSMC
-Kexts,FakePCIID.kext,latest,Fake PCI-ID,.*,https://bitbucket.org/RehabMan/os-x-fake-pci-id
-Kexts,FakePCIID_Intel_HDMI_Audio.kext,latest,Prevent audio losting(Fake device id),.*,https://bitbucket.org/RehabMan/os-x-fake-pci-id
 Kexts,Sinetek-rtsx.kext,latest,SD card driver,.*RELEASE,https://github.com/cholonam/Sinetek-rtsx
 Kexts,VerbStub.kext,1.0,VerbStub for audio,VerbStub.kext.zip,https://github.com/xxxzc/ComboJack
 Kexts,USBPorts.kext,1911,Define USB ports,USBPorts.kext.zip,https://github.com/xxxzc/xps15-9550-macos
